@@ -1,0 +1,21 @@
+/* @override http://hiexpressathensga.com/sites/all/themes/navin/css/navin-alpha-default-normal.css?m6a2o4 */
+
+/* This file will hold styles that are loaded using the same media query as the normal grid. */
+#zone-branding {
+	background: url(../images/Holiday-Inn-Express.jpg) no-repeat -270px -319px;
+	height: 227px;
+}
+
+#logo {
+  width: 225px;
+}
+
+/* Search Form */
+#block-search-form {
+  position: absolute;
+  right: 0;
+  text-align: right;
+  top: 35px;
+  width: 300px;
+  z-index: 1;
+}

@@ -1,20 +1,15 @@
-/* @override http://hi-express.loc/sites/all/themes/navin/css/prolifik-branding.css?m5m03s */
-
 /* Branding */
-#zone-branding-wrapper {
-	}
+
 #zone-branding {
   position: relative;
 }
 #region-branding {
   margin: 0;
   padding: 0;
-
   position: relative;
 }
 #region-branding .region-inner {
   padding: 20px;
-	background-color: white;
 }
 
 .logo-img {
@@ -24,7 +19,7 @@
 }
 
 #logo {
-  width: 300px;
+  width: 200px;
 }
 
 /* Search Form */

@@ -1,0 +1,15 @@
+/* @override http://hiexpressathensga.com/sites/all/themes/navin/css/navin-alpha-default-wide.css?m6a2o4 */
+
+* This file will hold styles that are loaded using the same media query as the wide grid. */
+
+div#zone-branding.zone.zone-branding {
+}
+
+div#zone-branding.zone.zone-branding.clearfix.container-12 {
+	background: url(../images/Holiday-Inn-Express.jpg) no-repeat center top;
+	height: 319px;
+}
+
+#logo {
+  width: 300px;
+}

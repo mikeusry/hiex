@@ -1,6 +1,7 @@
 /* @override 
 	http://hi-express.loc/sites/all/themes/navin/css/prolifik-footer.css?m5m03s
 	http://hi-express.loc/sites/all/themes/navin/css/prolifik-footer.css?m5pnkk
+	http://hiexpressathensga.com/sites/all/themes/navin/css/prolifik-footer.css?m6a2o4
 */
 
 /* Footer */
@@ -32,7 +33,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0060c1', end
 	padding-right: 10px;
 }
 #zone-footer-wrapper div.block-title {
-  margin: 15px 0;
 }
 #zone-footer-wrapper div.block-title h2.block-title div.separator {
   background-image: url(../images/separator-white.png);
@@ -84,7 +84,9 @@ body > #page #zone-footer h4, body > #page #zone-footer h5, body > #page #zone-f
   color: #fff;
 }
 
-#block-webform-client-block-1 div.block-title, #block-webform-client-block-1 div.block-title h2.block-title  {
+#section-footer h2.block-title, #block-block-2 h2  {
 	margin: 0;
 	padding: 0;
+	color: #fff;
+	text-shadow: black 1px 1px 1px;
 }

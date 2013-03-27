@@ -1,6 +1,15 @@
-/* @override http://hi-express.loc/sites/all/themes/navin/css/navin-alpha-default-narrow.css?m5pnkk */
+/* @override http://hiexpressathensga.com/sites/all/themes/navin/css/navin-alpha-default-narrow.css?m6a2o4 */
 
 /* This file will hold styles that are loaded using the same media query as the narrow grid. */
+
+#zone-branding {
+	background: url(../images/Holiday-Inn-Express.jpg) no-repeat -388px bottom;
+	height: 177px;
+}
+
+#logo {
+  width: 200px;
+}
 
 .logo-img {
   float: left;

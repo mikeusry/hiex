@@ -205,8 +205,8 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'hiexpress',
-      'username' => 'musry7',
+      'database' => 'bhg_hiex',
+      'username' => 'bhg_hiex',
       'password' => 'dawgs7',
       'host' => 'localhost',
       'port' => '',
@@ -246,7 +246,7 @@ $update_free_access = FALSE;
  *   $drupal_hash_salt = file_get_contents('/home/example/salt.txt');
  *
  */
-$drupal_hash_salt = 'OKYG-cnDZP-i4_Ud4JepcscBwaIKWrGU4NPuG6nLksU';
+$drupal_hash_salt = 'QmRS4jLqU_A847US-Hn-WiGocAaO-QGe78QUYrMO8tY';
 
 /**
  * Base URL (optional).

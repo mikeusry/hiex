@@ -1,0 +1,8 @@
+filename = "HolidayInnExpressAthensGA-2012-09-30T14-46-33"
+description = ""
+datestamp = "1349030795"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.15"
+sites[0][name] = "Holiday Inn Express | Athens, GA"
+sites[0][url] = "http://www.hiexpressathensga.com/"

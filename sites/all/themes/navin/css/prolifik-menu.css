@@ -1,10 +1,3 @@
-/* @override 
-	http://hilton.loc/sites/all/themes/navin/css/prolifik-menu.css?m5bgn5
-	http://hilton.loc/sites/all/themes/navin/css/prolifik-menu.css?m5cpcl
-	http://btcv.biz/sites/all/themes/prolifik/css/prolifik-menu.css?m5f2cd
-	http://hi-express.loc/sites/all/themes/navin/css/prolifik-menu.css?m5pnkk
-*/
-
 /* Menu */
 
 #zone-menu {
@@ -41,7 +34,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e3c7a', end
   padding: 0;
   position: relative;
   display: block;
-text-align: center;
+  text-align: center;
 }
 #region-menu nav > ul.menu > li.last {
   margin: 0;

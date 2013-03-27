@@ -1,7 +1,5 @@
-/* @override 
-	http://hi-express.loc/sites/all/themes/navin/css/prolifik-base.css?m5m03s
-	http://hi-express.loc/sites/all/themes/navin/css/prolifik-base.css?m5pnkk
-*/
+/* @override http://hiexpressathensga.com/sites/all/themes/navin/css/prolifik-base.css?m702ci
+	http://www.hiexpressathensga.com/sites/all/themes/navin/css/prolifik-base.css?mevaho */
 
 /* This file will hold the main styles for your website. */
 
@@ -55,6 +53,9 @@ body > #page h1#page-title {
 #page {
   position: relative;
 }
+body {
+background: #80b637
+}
 
 /* Blocks */
 .block .content {
@@ -97,6 +98,13 @@ img.left {
 	float: left;
 	margin-right: 5px;
 	margin-bottom: 5px;
+}
+
+div.view-specials-packages div.views-row-first {
+	border: thin solid silver;
+	border-radius: 10px;
+	padding: 10px;
+	margin-bottom: 20px;
 }
 
 /* @group Groups & Meetings */
@@ -170,12 +178,98 @@ div.room-class {
 /* @end */
 
 /* @group Blocks */
+div.call {
+	text-align: center;
+}
 
 #block-block-6 {
 	font-size: 1.75em;
+	text-align: center;
+}
+
+div.tour {
+	text-align: center;
+	font-size: 2em;
+	background-color: #80B637;
+	color: white;
+}
+
+#block-block-3 img, #block-block-6 img  {
+	width: 90%;
+	height: auto;
+	padding-left: 5%;
+}
+
+#block-block-6 div.content p a img {
+	
+}
+#block-block-10 {margin-top: 2%;text-align: center;}
+
+#block-block-10 img {max-width: 39px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+#block-block-10 .plus {
+	position: relative;
+	bottom: 3px;
+}
+
+/* @end */
+
+/* @group Booking form */
+
+#block-block-1 {-webkit-border-radius: 10px;border-radius: 10px;background-color: #80B637;
+	padding: 20px;
+}
+#block-block-1 label {
+	color: gray;
+	text-align: left;
+	font-weight: lighter;
+}
+
+#block-block-1 input, #block-block-1 select {
+
+}
+
+form#bookThisHotelBean {
+
+}
+
+a#hdGroupCodeQuery {
+	display: inline-block;float: left;
+	margin-right: 10px;
+	font-size: .8em;
+}
+
+#hdCorpCodePane {
+	text-align: center;
+	font-size: .8em;
+}
+
+input#hdBookThisHotel {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 
 
 /* @end */
 
+/* @group Form for football season */
+
+
+
+/* @end */
+
+#webform-component-number-of-queen-rooms, #webform-component-number-of-king-rooms-with-sleeper-sofa, #webform-component-number-of-double-rooms {width: 30%; float: left;
+	margin-right: 3%; font-size: 10px; font-weight: lighter;
+}
+
+#webform-component-number-of-queen-rooms label, #webform-component-number-of-king-rooms-with-sleeper-sofa label, #webform-component-number-of-double-rooms label {
+	
+}
+
+#webform-component-name {clear: both;}
+
+.bigger {font-size: x-large}
